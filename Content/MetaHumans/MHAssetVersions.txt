@@ -2319,6 +2319,1062 @@
 		{
 			"path": "MetaHumans/Bes/Previews/BP_Bes_PreviewMeshCollection.uasset",
 			"version": "0.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Medium/NormalWeight/Tops/Shirt/m_med_nrw_top_shirt_nrm.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Medium/NormalWeight/Shoes/Oxfords/m_med_nrw_shs_oxfords.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Body/BodyBaseColor.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Male/Medium/NormalWeight/Body/m_med_nrw_body.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Materials/M_BodySynthesized.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Face/Professor1_FaceMesh.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Face/FaceColor_MAIN.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Face/FaceColor_CM3.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Face/FaceColor_CM2.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Face/FaceColor_CM1.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Face/FaceCavity_MAIN.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Face/FaceRoughness_MAIN.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Face/FaceNormal_MAIN.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Face/FaceNormal_WM1.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Face/FaceNormal_WM2.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Face/FaceNormal_WM3.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Face/FaceEyeLipstickMask.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Face/FaceFoundationBlusherMask.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Face/FaceBakedGroomRootTipGradientRegionMasks.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Face/FaceBakedGroomAttributeMap.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Face/Materials/Baked/MI_HeadSynthesized_Baked.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Face/Materials/Baked/MI_HeadSynthesized_Baked_LOD1.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Face/FaceColor_MAIN_LOD.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Face/FaceRoughness_MAIN_LOD.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Face/FaceNormal_MAIN_LOD.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Face/FaceBakedGroomRootTipGradientRegionMasks_LOD.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Face/FaceBakedGroomAttributeMap_LOD.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Face/Materials/Baked/MI_HeadSynthesized_Baked_LOD2.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Face/T_BakedNormal_LOD3.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Face/Materials/Baked/MI_HeadSynthesized_Baked_LOD3.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Face/T_BakedNormal_LOD4.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Face/Materials/Baked/MI_HeadSynthesized_Baked_LOD4.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Face/T_BakedNormal_LOD5.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Face/Materials/Baked/MI_HeadSynthesized_Baked_LOD5.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Face/Materials/MI_EyeRefractive_Inst_L.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Face/Materials/MI_EyeRefractive_Inst_R.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Materials/M_TeethCharacterCreator_Inst.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Materials/M_EyelashLowerLODs_Inst.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Materials/M_EyeLash_HigherLODs_Inst.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Materials/Shirt/Male/M_m_top_shirt.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Materials/Slacks/Male/M_m_btm_slacks.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Materials/Oxfords/M_shs_oxfords.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/MaleHair/GroomBinding/Hair_S_HairLoss_m_head_Archetype_Binding.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/MaleHair/Hair/Hair_S_HairLoss_CardsMesh_Group0_LOD0.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/MaleHair/Hair/Hair_S_HairLoss_CardsMesh_Group0_LOD1.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/MaleHair/Hair/Hair_S_HairLoss_CardsMesh_Group0_LOD2.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/MaleHair/Hair/Hair_S_HairLoss_CardsMesh_Group0_LOD3.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/MaleHair/Hair/Hair_S_HairLoss_CardsMesh_Group0_LOD4.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/MaleHair/Helmets/Hair_S_HairLoss_Helmet_LOD5.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/MaleHair/Helmets/Hair_S_HairLoss_Helmet_LOD6.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/MaleHair/Helmets/Hair_S_HairLoss_Helmet_LOD7.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/MaleHair/Hair/Hair_S_HairLoss.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Materials/MI_Hair.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Materials/MI_Hair_Cards.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Materials/MI_Hair_Helmet.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/MaleHair/GroomBinding/Eyebrows_M_ThickFlat_m_med_nrw_head_skmesh_Binding.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/MaleHair/Hair/Eyebrows_M_ThickFlat.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Materials/MI_Hair1.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Materials/MI_Hair_Cards1.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Materials/HairDefaultMaterial.uasset",
+			"version": "0.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/MaleHair/GroomBinding/Eyelashes_S_Sparse_m_med_nrw_head_skmesh_Face_Archetype_Binding.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/MaleHair/Hair/Eyelashes_S_Sparse.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Materials/MI_Hair2.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/MaleHair/GroomBinding/Mustache_L_Scraggly_m_head_Archetype_Binding.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/MaleHair/Hair/Mustache_L_Scraggly_CardsMesh_Group0_LOD0.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/MaleHair/Hair/Mustache_L_Scraggly_CardsMesh_Group0_LOD1.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/MaleHair/Hair/Mustache_L_Scraggly_CardsMesh_Group0_LOD2.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/MaleHair/Hair/Mustache_L_Scraggly_CardsMesh_Group0_LOD3.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/MaleHair/Hair/Mustache_L_Scraggly_CardsMesh_Group0_LOD4.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/MaleHair/Helmets/Mustache_L_Scraggly_Helmet_LOD5.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/MaleHair/Helmets/Mustache_L_Scraggly_Helmet_LOD6.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/MaleHair/Helmets/Mustache_L_Scraggly_Helmet_LOD7.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/MaleHair/Hair/Mustache_L_Scraggly.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Materials/MI_Hair3.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Materials/MI_Hair_Cards2.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Materials/MI_Hair_Helmet1.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/MaleHair/GroomBinding/Beard_S_Curly_m_med_nrw_head_skmesh_Binding.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/MaleHair/Hair/Beard_S_Curly.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Materials/MI_Hair4.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Materials/MI_Hair_Cards3.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Materials/MI_Hair_Helmet2.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/FemaleHair/GroomBinding/Peachfuzz_M_Thin_f_head_Archetype_Binding.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/FemaleHair/Hair/Peachfuzz_M_Thin.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Materials/MI_PeachFuzz.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/BP_Professor1.uasset",
+			"version": "1.1"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Textures/male_001/1K/male_body_cavity_map.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Textures/male_001/1K/male_body_normal_map.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Textures/male_001/1K/male_body_roughness_map.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Textures/Shared/1K/male_body_mask_map.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Textures/Shared/1K/male_underwear_color_map.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Face/Textures/IrisTextures/iris_004/T_Iris_A_H.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Face/Textures/IrisTextures/iris_004/T_Iris_A_M.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Shirt/Male/M_m_top_shirt.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Shirt/Male/m_top_shirt_custom_stitch_02.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Shirt/Male/m_top_shirt_AO.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Textures/Clothing/Micros/micro_chambray_D.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Textures/Clothing/Wrinkles/crease_a_tileable_N.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Shirt/Male/m_top_shirt_N.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Textures/Clothing/Micros/micro_chambray_N.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Shirt/Male/m_top_shirt_Mask.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Textures/Clothing/Micros/micro_chambray_height.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Medium/NormalWeight/Tops/Shirt/m_med_nrw_top_shirt_nrm_PhysicsAsset.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Medium/NormalWeight/Tops/Shirt/m_med_nrw_top_shirt_nrm_Skeleton.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Oxfords/M_shs_oxfords.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Textures/Clothing/Micros/micro_leather_Mask.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Oxfords/T_Unisex_tal_nrw_dressOxford_N.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Oxfords/T_Unisex_tal_nrw_dressOxford_PackedB.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Textures/Clothing/Micros/micro_leather_Color.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Oxfords/T_Unisex_tal_nrw_dressOxford_laces.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Oxfords/T_Unisex_tal_nrw_dressOxford_PackedA.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair/Textures/Hair_S_HairLoss/Hair_S_HairLoss_Depth.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair/Textures/Hair_S_HairLoss_Cards/Hair_S_HairLoss_CardsAtlas_Depth.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair/Textures/Hair_S_HairLoss_Cards/Hair_S_HairLoss_CardsAtlas_Attribute.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair/Textures/Hair_S_HairLoss_Cards/Hair_S_HairLoss_CardsAtlas_Tangent.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair/Textures/Hair_S_HairLoss_Cards/Hair_S_HairLoss_CardsAtlas_Coverage.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair/Textures/Hair_S_HairLoss/Hair_S_HairLoss_Material.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair/Textures/Hair_S_HairLoss/Hair_S_HairLoss_Attribute.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair/Textures/Hair_S_HairLoss/Hair_S_HairLoss_Opacity.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair/Textures/Hair_S_HairLoss/Hair_S_HairLoss_Tangent.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair/Textures/Mustache_L_Scraggly_Cards/Mustache_L_Scraggly_CardsAtlas_Depth.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair/Textures/Mustache_L_Full/Mustache_L_Full_Depth.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair/Textures/Mustache_L_Scraggly_Cards/Mustache_L_Scraggly_CardsAtlas_Tangent.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair/Textures/Mustache_L_Scraggly/Mustache_L_Scraggly_Opacity.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair/Textures/Mustache_L_Scraggly/Mustache_L_Scraggly_Attribute.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair/Textures/Mustache_L_Scraggly_Cards/Mustache_L_Scraggly_CardsAtlas_Coverage.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair/Textures/Mustache_L_Scraggly_Cards/Mustache_L_Scraggly_CardsAtlas_Attribute.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair/Textures/Mustache_L_Scraggly/Mustache_L_Scraggly_Tangent.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor1/Previews/BP_Professor1_PreviewMeshCollection.uasset",
+			"version": "0.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Medium/NormalWeight/Tops/Sweater/m_med_nrw_top_sweater_nrm.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Medium/NormalWeight/Bottoms/Jeans/m_med_nrw_btm_jeans_nrm.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Medium/NormalWeight/Shoes/Boots/m_med_nrw_shs_boots.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Body/BodyBaseColor.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Male/Medium/NormalWeight/Body/m_med_nrw_body.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Materials/M_BodySynthesized.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/Professor2_FaceMesh.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/FaceColor_MAIN.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/FaceColor_CM3.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/FaceColor_CM2.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/FaceColor_CM1.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/FaceCavity_MAIN.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/FaceRoughness_MAIN.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/FaceNormal_MAIN.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/FaceNormal_WM1.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/FaceNormal_WM2.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/FaceNormal_WM3.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/FaceEyeLipstickMask.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/FaceFoundationBlusherMask.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/FaceBakedGroomRootTipGradientRegionMasks.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/FaceBakedGroomAttributeMap.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/Materials/Baked/MI_HeadSynthesized_Baked.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/Materials/Baked/MI_HeadSynthesized_Baked_LOD1.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/FaceColor_MAIN_LOD.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/FaceRoughness_MAIN_LOD.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/FaceNormal_MAIN_LOD.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/FaceBakedGroomRootTipGradientRegionMasks_LOD.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/FaceBakedGroomAttributeMap_LOD.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/Materials/Baked/MI_HeadSynthesized_Baked_LOD2.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/T_BakedNormal_LOD3.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/Materials/Baked/MI_HeadSynthesized_Baked_LOD3.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/T_BakedNormal_LOD4.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/Materials/Baked/MI_HeadSynthesized_Baked_LOD4.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/FaceColor_MAIN_LOD1.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/FaceRoughness_MAIN_LOD1.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/FaceNormal_MAIN_LOD1.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/FaceBakedGroomRootTipGradientRegionMasks_LOD1.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/FaceBakedGroomAttributeMap_LOD1.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/T_BakedNormal_LOD5.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/Materials/Baked/MI_HeadSynthesized_Baked_LOD5.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/Materials/MI_EyeRefractive_Inst_L.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Face/Materials/MI_EyeRefractive_Inst_R.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Materials/M_TeethCharacterCreator_Inst.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Materials/M_EyelashLowerLODs_Inst.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Materials/M_EyeLash_HigherLODs_Inst.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Materials/Sweater/M_top_sweater.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Materials/Jeans/M_btm_jeans_nrm.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Materials/Boots/M_shs_boots.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/MaleHair/GroomBinding/Hair_L_AfroCurly_m_head_Archetype_Binding.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/MaleHair/Hair/Hair_L_AfroCurly_CardsMesh_Group0_LOD0.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/MaleHair/Hair/Hair_L_AfroCurly_CardsMesh_Group0_LOD1.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/MaleHair/Hair/Hair_L_AfroCurly_CardsMesh_Group0_LOD2.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/MaleHair/Hair/Hair_L_AfroCurly_CardsMesh_Group0_LOD3.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/MaleHair/Hair/Hair_L_AfroCurly_CardsMesh_Group0_LOD4.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/MaleHair/Helmets/Hair_L_AfroCurly_Helmet_LOD5.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/MaleHair/Helmets/Hair_L_AfroCurly_Helmet_LOD6.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/MaleHair/Helmets/Hair_L_AfroCurly_Helmet_LOD7.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/MaleHair/Hair/Hair_L_AfroCurly.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Materials/MI_Hair.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Materials/MI_Hair_Cards.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Materials/MI_Hair_Helmet.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/MaleHair/GroomBinding/Eyebrows_M_ThickFlat_m_med_nrw_head_skmesh_Binding.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/MaleHair/Hair/Eyebrows_M_ThickFlat.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Materials/MI_Hair1.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Materials/MI_Hair_Cards1.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Materials/HairDefaultMaterial.uasset",
+			"version": "0.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/MaleHair/GroomBinding/Eyelashes_S_Sparse_m_med_nrw_head_skmesh_Face_Archetype_Binding.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/MaleHair/Hair/Eyelashes_S_Sparse.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Materials/MI_Hair2.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/MaleHair/GroomBinding/Mustache_M_Curly_m_head_Archetype_Binding.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/MaleHair/Hair/Mustache_M_Curly.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Materials/MI_Hair3.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Materials/HairDefaultMaterial1.uasset",
+			"version": "0.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Materials/MI_Hair_Helmet1.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/MaleHair/GroomBinding/Goatee_S_ChinStrap_m_head_Archetype_Binding.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/MaleHair/Hair/Goatee_S_ChinStrap_CardsMesh_Group0_LOD0.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/MaleHair/Hair/Goatee_S_ChinStrap_CardsMesh_Group0_LOD1.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/MaleHair/Hair/Goatee_S_ChinStrap_CardsMesh_Group0_LOD2.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/MaleHair/Hair/Goatee_S_ChinStrap_CardsMesh_Group0_LOD3.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/MaleHair/Hair/Goatee_S_ChinStrap_CardsMesh_Group0_LOD4.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/MaleHair/Hair/Goatee_S_ChinStrap.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Materials/MI_Hair4.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Materials/MI_Facial_Hair.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/FemaleHair/GroomBinding/Peachfuzz_M_Thin_f_head_Archetype_Binding.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/FemaleHair/Hair/Peachfuzz_M_Thin.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Materials/MI_PeachFuzz.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/BP_Professor2.uasset",
+			"version": "1.1"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Textures/male_002/1K/male_body_cavity_map.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Textures/male_002/1K/male_body_normal_map.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Textures/male_002/1K/male_body_roughness_map.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/HighlightsTextures/HighlightMask_contrasty.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Face/Textures/IrisTextures/iris_008/T_Iris_A_H.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Face/Textures/IrisTextures/iris_008/T_Iris_A_M.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Sweater/M_top_sweater.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Sweater/top_sweater_N.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Sweater/top_sweater_Mask.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Textures/Clothing/Micros/micro_double_knit_N.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Textures/Clothing/Micros/micro_double_knit_height1.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Textures/Clothing/Micros/micro_knit_front_nosrgb_H.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Textures/Clothing/Macros/macro_pilling_A2.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Textures/Clothing/Macros/macro_pilling_2_N.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Sweater/top_sweater_AO.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Jeans/M_btm_jeans_nrm.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Jeans/btm_jeans_nrm_memory_fold_N.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/M_jeans_nrm_custom_master.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Textures/Clothing/Micros/micro_weave_plain.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Jeans/btm_jeans_nrm_roughness_mask.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Textures/Clothing/Micros/micro_jeans_tile_N.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Textures/Clothing/Micros/micro_weave_plain_normal.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Jeans/btm_jeans_nrm_N.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Textures/Clothing/Micros/micro_jeans_tile_M.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Jeans/btm_jeans_nrm_AO.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Jeans/btm_jeans_nrm_D.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Jeans/btm_jeans_nrm_fuzz_M.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Jeans/btm_jeans_nrm_Mask.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Jeans/btm_jeans_nrm_tile_overlay_D.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Medium/NormalWeight/Bottoms/Jeans/m_med_nrw_btm_jeans_nrm_Physics.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Boots/M_shs_boots.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Boots/shs_boots_AO.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Boots/shs_boots_Mask.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Boots/shs_boots_N.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Materials/Boots/shs_boots_custom_stitches.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair/Textures/Hair_L_AfroCurly/Hair_L_AfroCurly_Opacity.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair/Textures/Hair_L_AfroCurly_Cards/Hair_L_AfroCurly_CardsAtlas_Tangent.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair/Textures/Hair_L_AfroCurly/Hair_L_AfroCurly_Material.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair/Textures/Hair_L_AfroCurly/Hair_L_AfroCurly_Tangent.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair/Textures/Hair_L_AfroCurly/Hair_L_AfroCurly_Depth.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair/Textures/Hair_L_AfroCurly/Hair_L_AfroCurly_Attribute.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair/Textures/Hair_L_AfroCurly_Cards/Hair_L_AfroCurly_CardsAtlas_Attribute.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair/Textures/Hair_L_AfroCurly_Cards/Hair_L_AfroCurly_CardsAtlas_Coverage.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair/Textures/Hair_L_AfroCurly_Cards/Hair_L_AfroCurly_CardsAtlas_Depth.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair/Textures/Goatee_S_ChinStrap_Cards/Goatee_S_ChinStrap_CardsAtlas_Depth.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair/Textures/Goatee_S_ChinStrap_Cards/Goatee_S_ChinStrap_CardsAtlas_Coverage.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair/Textures/Goatee_S_ChinStrap_Cards/Goatee_S_ChinStrap_CardsAtlas_Attribute.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/MaleHair/Textures/Goatee_S_ChinStrap_Cards/Goatee_S_ChinStrap_CardsAtlas_Tangent.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Professor2/Previews/BP_Professor2_PreviewMeshCollection.uasset",
+			"version": "0.0"
 		}
 	]
 }
